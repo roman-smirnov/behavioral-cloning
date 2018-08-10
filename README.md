@@ -4,7 +4,9 @@
 This project is an exercise in end-to-end deep learning. 
 We train a convolutional neural network regression model to drive around a simulated race track. The model outputs appropriate steerings angles, its sole responsibility, given images of the track. 
 
-![Screen%20Shot%202018-08-10%20at%2019.01.36.png](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/behavioural_cloning.ipynb)
+![Screen%20Shot%202018-08-10%20at%2019.01.36.png](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/screenshot.png)
+
+
 
 ## Library Imports
 
