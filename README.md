@@ -50,9 +50,9 @@ The recording produced a folder named `IMG` containing 10695 `.jpg` images and a
 - There are always exactly 3 images with the same exact timestamp, one for each camera offset tag. 
 - Sequential timestamps differ by ~80ms, which implies sampling at a rate of ~12.5 Frames per second (e.g `center_2018_08_08_04_35_12_890.jpg`, `center_2018_08_08_04_35_12_969.jpg`). 
 
-![center](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/center.jpg)
-![right](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/right.jpg)
-![left](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/left.jpg)
+![center](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/center.jpeg)
+![right](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/right.jpeg)
+![left](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/left.jpeg)
 
 ### Sensor Data
 - The file `driving_log.csv` contains sensor data samples (steering angle, throttle, brakes, speed) with their corresponding image paths. 
