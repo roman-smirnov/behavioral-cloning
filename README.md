@@ -7,7 +7,7 @@ We train a convolutional neural network regression model to drive around a simul
 ![Screen%20Shot%202018-08-10%20at%2019.01.36.png](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/screenshot.png)
 
 
-![](DEMONSTRATION VIDEO)](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/run1.mp4)
+![VIDEO](https://github.com/roman-smirnov/behavioral-cloning-project/blob/master/run1.mp4)
 
 
 ## Library Imports
